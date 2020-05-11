@@ -1,0 +1,17 @@
+{
+  "name": "language-alv-lite",
+  "version": "0.1.0",
+  "description": "Legacy Textmate support for the alv livecoding language.",
+  "keywords": [
+    "language",
+    "grammar",
+    "alv",
+    "alivecoding",
+    "livecoding",
+    "textmate"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
