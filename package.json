@@ -1,6 +1,6 @@
 {
   "name": "language-alv-lite",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Legacy Textmate support for the alv livecoding language.",
   "keywords": [
     "language",
